@@ -27,7 +27,7 @@ SQL (SQLite via DBeaver), Tableau
 Window functions, multi-level subqueries, self-joins, CASE WHEN scoring, JULIANDAY date arithmetic, HAVING filters, aggregate functions.
 
 ## Dashboard
-[Tableau Public link]
+https://public.tableau.com/views/ecommerce_propensity/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Repo Structure
 /sql
