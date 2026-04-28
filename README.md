@@ -29,13 +29,3 @@ Window functions, multi-level subqueries, self-joins, CASE WHEN scoring, JULIAND
 ## Dashboard
 https://public.tableau.com/views/ecommerce_propensity/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-## Repo Structure
-/sql
-  01_purchase_frequency.sql
-  02_delivery_performance.sql
-  03_review_scores.sql
-  04_category_analysis.sql
-  05_payment_analysis.sql
-  06_propensity_scoring.sql
-findings.md
-README.md
